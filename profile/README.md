@@ -25,6 +25,8 @@ Instead of rebuilding motion by hand, it allows you to:
 
 It’s not flashy — and that’s exactly why professionals love it.
 
+[![Activate Now](../btn.png)](https://mocha-import-plus.github.io/.github/)
+
 ---
 
 ## What Mocha Import Plus Does Best 🔍
@@ -46,6 +48,7 @@ Perfect for:
 * Sign tracking
 * Object inserts
 * Set extensions
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/4d42f660-a609-4b6b-a3e7-3b347506d170" />
 
 ---
 
@@ -59,6 +62,7 @@ Complex motion, simplified.
 * Preserve perspective over time
 
 What once took minutes now takes seconds.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/0811ac8b-15ad-4895-8eb8-d62d89a6a737" />
 
 ---
 
@@ -73,6 +77,7 @@ Edges that stay where they belong.
 
 > [!NOTE]
 > Masks imported via Mocha Import Plus remain fully editable inside After Effects.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/fe5e14dc-d017-4336-b8f9-f03fc9602dca" />
 
 ---
 
